@@ -3,6 +3,9 @@
 
 # Base ------------------------------------------------------------------------
 gitpython
+utils
+imutils
+deep-sort-realtime
 ipython
 matplotlib>=3.2.2
 numpy>=1.18.5
