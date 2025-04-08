@@ -3,9 +3,6 @@
 
 # Base ------------------------------------------------------------------------
 gitpython
-utils
-imutils
-deep-sort-realtime
 ipython
 matplotlib>=3.2.2
 numpy>=1.18.5
@@ -48,3 +45,9 @@ seaborn>=0.11.0
 # mss
 albumentations>=1.0.3
 pycocotools>=2.0
+
+# Custom Added by User --------------------------------------------------------
+utils
+imutils
+Pillow
+deep-sort-realtime
