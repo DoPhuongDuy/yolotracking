@@ -49,5 +49,4 @@ pycocotools>=2.0
 # Custom Added by User --------------------------------------------------------
 utils
 imutils
-Pillow
 deep-sort-realtime
